@@ -8,7 +8,7 @@
 
 ## What's a setup wizard?
 
-A setup wizard is a CLI that reads your existing project, understands your stack, and wires up a service automatically. You point it at your codebase and it handles the rest — SDK install, config files, routes, even UI. This is different from scaffolders like `create-react-app`, which build from scratch. You just run one command against code that already exists.
+Not a scaffolder. Scaffolders need a blank directory — wizards drop into code that already exists, read your stack, and wire up the integration themselves.
 
 ## Why this list?
 

@@ -1,6 +1,6 @@
 # Contributing
 
-We want this list to stay sharp. Every entry should be something you'd actually reach for.
+Every entry should be something you'd actually reach for.
 
 ## What qualifies
 
@@ -22,9 +22,9 @@ If a tool meets all three, it belongs here.
    - Link to GitHub or official docs — whichever is more useful to a developer evaluating it
 3. Open a PR with a one-line description of what the wizard does
 
-That's it. No issue required first. Just open the PR.
+No issue required first. Just open the PR.
 
-## What we'll reject
+## What doesn't qualify
 
 - Scaffolders that create projects from scratch (Yeoman generators, `create-*` CLIs, etc.)
 - Tools that only generate boilerplate and hand it back to you
@@ -33,4 +33,4 @@ That's it. No issue required first. Just open the PR.
 
 ## Questions
 
-Open an issue and we'll get back to you.
+Open an issue and I'll get back to you.
