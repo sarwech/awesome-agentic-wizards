@@ -12,7 +12,7 @@ A setup wizard is a CLI that reads your existing project, understands your stack
 
 ## Why this list?
 
-This pattern is new, it's spreading fast, and it deserves a canonical home.
+I ran `npx @posthog/wizard` not really expecting anything other than a standard CLI scaffolder and it just… did it. No docs, no copy-pasting API keys, no guessing which SDK to install. And no debugging why events weren't working. I was blown away and wanted to find more like it. But when I looked and couldn't find a list, I decided to build this. So here it is.
 
 ## Legend
 
