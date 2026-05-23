@@ -1,4 +1,4 @@
-# awesome-agentic-wizards
+# Awesome Agentic Wizards
 
 > A curated list of agentic CLI wizards that install themselves into your existing codebase. No docs required.
 
